@@ -1,4 +1,4 @@
-Sure, I'll outline the process of creating the "Dual of Cognition" memory game using JavaScript, CSS, and HTML:
+ # The process of creating the "Dual of Cognition" memory game using JavaScript, CSS, and HTML:
 
 1. **Game Structure and Setup**:
    - Create an HTML file for the game layout.
